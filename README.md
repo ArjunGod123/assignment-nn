@@ -1,1 +1,1 @@
-I was not able to share notebook through kaggle link because there was some bug
+I was not able to share notebook through kaggle link because there was some bug. Used only train.csv because test.csv was showing error. Weights and biases are in the output with respective epoch. Accuracy and error is at the end of the output
